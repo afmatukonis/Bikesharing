@@ -38,4 +38,6 @@ This data shows that most trips start and end in central Manhatten.
 
 Based on the visualizations we can conclude that the most riders are male and subcribers, most rides last under an hour with checkout times around 5 minutes, the busiest times are between 6-9 am and 5-7 pm, the usual hours before and after work. We can theorize that most riders are riding them to and from work and that they are male. Males subscribers are the most active during the week, with little variation between days. Finally, looking at where the trips start and stop you can see that most of the drips are centralized in Manhattan. We can look closer and see that most of the trips start and stop near major landmarks such as the Empire State Building, One World Trader Center, and Central Park. 
 
+Future analysis could include average trip duration by gender and number of average trips per user to see if people are using them once and a while or on a daily basis. 
+
 Based on the data visualization we can make recommendations about where to place bike stations, when to service them based on usage hours, and how many bikes would be needed.
