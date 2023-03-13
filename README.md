@@ -7,7 +7,7 @@ The purpose of this module was to use Tableau to create visualizations based on 
 
 First we were tasked with using jupyter notebook and changing the trip duration column to a DateTime format using Pandas. Once we transformed the trip duration into the correct format we then began to use Tableau to create visualizations on Checkout Times for Users, Checkout Times for Gender, Trips by Weekday for Each Hour, Trips by Gender (Weekday by Hour), Trips by Gender by Weekday. We also created more visualziations during the module itself that we used in the analysis. 
 
-They are all displayed in Tableau [here].(https://public.tableau.com/shared/7KZ738XF4?:display_count=n&:origin=viz_share_link)
+They are all displayed in Tableau [here](https://public.tableau.com/shared/7KZ738XF4?:display_count=n&:origin=viz_share_link).
 
 **Analysis**
 
